@@ -22,7 +22,7 @@ export const signOut = () =>{
     }
 };
 
-export const createStream = formValues => async dispatch =>{
+export const createStream = formValues => async dispatch => {
        const response = await streams.post('/streams', formValues);
 
        dispatch({
@@ -31,7 +31,7 @@ export const createStream = formValues => async dispatch =>{
        })
 };
 
-export const fetchStreams = () => async dispatch =>{
+export const fetchStreams = () => async dispatch => {
     const response = await streams.get('/streams');
 
     dispatch({
@@ -40,7 +40,7 @@ export const fetchStreams = () => async dispatch =>{
     })
 };
 
-export const fetchStream = (id) => async dispatch =>{
+export const fetchStream = (id) => async dispatch => {
    const response = await streams.get(`/streams/${id}`);
 
    dispatch({
@@ -49,7 +49,7 @@ export const fetchStream = (id) => async dispatch =>{
    })
 };
 
-export const editStream = (id, formValues) => async dispatch =>{
+export const editStream = (id, formValues) => async dispatch => {
     const response = await streams.put(`/streams/${id}`, formValues);
 
     dispatch({
