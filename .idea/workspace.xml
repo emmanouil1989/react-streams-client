@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81404ac9-3e76-4465-b080-975ff1fb719c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reducers/streamReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/streamReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/streamReducer.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,25 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/reducers/streamReducer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+            <state relative-caret-position="255">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
-                <element signature="e#0#126#1" expanded="true" />
+                <element signature="e#0#126#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,11 +37,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/streams/StreamCreate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+            <state relative-caret-position="679">
+              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/authReducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -82,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="45">
               <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -95,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/streams/StreamEdit.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -108,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/actions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
+            <state relative-caret-position="439">
               <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
             </state>
           </provider>
@@ -166,6 +160,27 @@
               <item name="react-streams-client" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-streams-client" type="462c0819:PsiDirectoryNode" />
               <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-streams-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-streams-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="react-redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-streams-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-streams-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="react-redux" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-streams-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-streams-client" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="react-redux" type="462c0819:PsiDirectoryNode" />
+              <item name="es" type="462c0819:PsiDirectoryNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-streams-client" type="b2602c69:ProjectViewProjectNode" />
@@ -274,13 +289,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9344000" />
+    <option name="totallyTimeSpent" value="10302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="52" width="2483" height="1252" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.095857024" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.095857024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -297,7 +312,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27068967" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27068967" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -391,34 +406,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/authReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/GoogleAuth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/streams/StreamCreate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/apis/streams.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -431,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="45">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
@@ -442,19 +433,12 @@
     <entry file="file://$PROJECT_DIR$/src/components/streams/StreamEdit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/streams/StreamDelete.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -466,12 +450,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/streams/StreamCreate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/authReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/apis/streams.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/streamReducer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
-            <element signature="e#0#126#1" expanded="true" />
+            <element signature="e#0#126#0" expanded="true" />
           </folding>
         </state>
       </provider>
